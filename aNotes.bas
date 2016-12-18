@@ -27,6 +27,9 @@ Attribute VB_Name = "aNotes"
 
 'Changes/modifications
 
+' 20161218 - moving code repository to Github, will manage changes to VBA modules, including forms, 
+' through Github instead of individual workbooks
+
 '    20140629 - changes to settings tab and format macro to reflect two assets sales per period
 
 '   20120131 - updated the report to reflect the new PNC transaction.  Updates included:
